@@ -1,4 +1,4 @@
-Ejercicio 2 - Indicador de Estado de Conexión de Red
+Ejercicio 12 - Indicador de Estado de Conexión de Red
 
 Explicación del programa
 
